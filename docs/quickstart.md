@@ -23,7 +23,7 @@ and 18.04) Linux.
     If you're using Cloud Shell, Debian, or Ubuntu, you may need to use apt instead:
 
     ```shell
-    apt-get install kubectl google-cloud-sdk-gke-gcloud-auth-plugin
+    sudo apt-get install kubectl google-cloud-sdk-gke-gcloud-auth-plugin
     ```
 
 1. Install tools required for installation:
